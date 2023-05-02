@@ -1,5 +1,13 @@
 import random
 
+
+
+
+
+
+
+#3ewerewr
+
 def _isdigit(var): #올바른 입력인지 확인
     return 0 <= var <= 9
 
